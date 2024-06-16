@@ -1,0 +1,3 @@
+About:
+
+Aerofit, a leading fitness equipment brand, wants to identify the characteristics of the target audience for each type of treadmill they offer to better recommend products to new customers. The market research team aims to investigate differences across products based on customer characteristics. I used descriptive analytics, tables, and charts, which will help in creating customer profiles for each treadmill. Two-way contingency tables will help to compute conditional and marginal probabilities, providing insights into customer preferences. This analysis will help Aerofit tailor recommendations, improve marketing strategies, and enhance customer satisfaction by aligning products with customer needs.
